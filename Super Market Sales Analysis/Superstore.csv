@@ -1,0 +1,175 @@
+row_id,order_id,order_date,ship_date,ship_mode,customer_id,customer_name,city,state,region,product_id,category,sub_category,product_name,sales,quantity,discount,cost_per_price,profit
+1,ORD000001,2024-10-07 05:30:13,2024-10-07 05:30:13,Same Day,CUST1651,Arjun Rao,Delhi,Delhi,North,PROD006,Books,Fiction,1984 by George Orwell,300.00,10,5,250.00,45.00
+2,ORD000002,2024-09-22 07:34:56,2024-09-22 07:34:56,Same Day,CUST7565,Priya Sharma,Hyderabad,Telangana,South,PROD015,Books,Non-Fiction,The Alchemist,400.00,15,10,350.00,40.00
+3,ORD000003,2024-05-14 12:27:12,2024-05-19 15:56:51,Second Class,CUST4481,Akash Desai,Chennai,Tamil Nadu,South,PROD019,Toys,Vehicles,Hot Wheels Track Set,1200.00,8,15,1000.00,60.00
+4,ORD000004,2024-07-27 03:23:30,2024-07-30 21:14:30,First Class,CUST4790,Neha Iyer,Kolkata,West Bengal,East,PROD060,Toys,Vehicles,Hot Wheels Track Set,1200.00,5,10,1000.00,70.00
+5,ORD000005,2024-09-07 14:32:36,2024-09-14 22:25:14,Standard Class,CUST8849,Rahul Patel,Chennai,Tamil Nadu,South,PROD035,Toys,Construction,LEGO Star Wars Set,3500.00,3,5,3000.00,325.00
+6,ORD000006,2024-01-14 16:50:35,2024-01-20 10:25:45,Second Class,CUST8972,Kavya Verma,Kolkata,West Bengal,East,PROD054,Groceries,Snacks,Organic Almonds (500g),600.00,20,10,500.00,100.00
+7,ORD000007,2024-08-31 03:52:04,2024-09-06 03:30:09,Second Class,CUST3962,Aditya Nair,Hyderabad,Telangana,South,PROD009,Electronics,Smartphones,Oppo A12,15000.00,7,5,13000.00,1150.00
+8,ORD000008,2024-07-11 02:13:20,2024-07-11 02:13:20,Same Day,CUST6989,Sanya Gupta,Chennai,Tamil Nadu,South,PROD081,Groceries,Grains & Pulses,Brown Rice (1kg),100.00,25,0,80.00,20.00
+9,ORD000009,2024-09-20 08:58:24,2024-09-20 08:58:24,Same Day,CUST2764,Vishal Reddy,Chennai,Tamil Nadu,South,PROD040,Books,Literature,To Kill a Mockingbird,350.00,10,5,300.00,25.00
+10,ORD000010,2024-09-02 09:00:02,2024-09-05 14:54:30,First Class,CUST5051,Meera Mehta,Chennai,Tamil Nadu,South,PROD087,Electronics,Laptops,Dell XPS 13,120000.00,2,5,100000.00,14000.00
+11,ORD000011,2024-08-24 23:06:08,2024-08-28 19:56:41,First Class,CUST4783,Siddharth Khanna,Chennai,Tamil Nadu,South,PROD100,Toys,Outdoor,Nerf Super Soaker,1500.00,4,15,1200.00,180.00
+12,ORD000012,2024-07-11 17:41:28,2024-07-17 13:21:15,Second Class,CUST6602,Ritu Jain,Chennai,Tamil Nadu,South,PROD093,Groceries,Grains & Pulses,Brown Rice (1kg),100.00,30,0,80.00,20.00
+13,ORD000013,2024-07-01 00:09:42,2024-07-01 00:09:42,Same Day,CUST5436,Sameer Choudhary,Chennai,Tamil Nadu,South,PROD075,Groceries,Oil,Extra Virgin Olive Oil (500ml),800.00,12,10,700.00,60.00
+14,ORD000014,2024-09-12 09:15:17,2024-09-19 11:18:25,Standard Class,CUST6553,Aditi Kulkarni,Hyderabad,Telangana,South,PROD007,Home & Kitchen,Multicookers,Instant Pot Duo,12000.00,6,5,10000.00,1250.00
+15,ORD000015,2024-04-07 07:57:38,2024-04-14 09:59:48,Standard Class,CUST5280,Abhinav Singh,Hyderabad,Telangana,South,PROD063,Books,Fiction,1984 by George Orwell,300.00,10,5,250.00,45.00
+16,ORD000016,2024-01-01 04:50:04,2024-01-06 06:44:13,Second Class,CUST3158,Pooja Thakur,Hyderabad,Telangana,South,PROD015,Groceries,Snacks,Organic Almonds (500g),600.00,20,10,500.00,100.00
+17,ORD000017,2024-02-04 08:48:59,2024-02-12 07:41:54,Standard Class,CUST7372,Rohan Malik,Chennai,Tamil Nadu,South,PROD001,Fashion,Footwears,Adidas Ultraboost,18000.00,3,10,15000.00,2700.00
+18,ORD000018,2024-04-03 06:36:57,2024-04-10 06:52:41,Standard Class,CUST7945,Shruti Mishra,Hyderabad,Telangana,South,PROD056,Home & Kitchen,Vacuum Cleaners,Dyson Vacuum,30000.00,2,5,25000.00,4250.00
+19,ORD000019,2024-05-24 04:45:21,2024-05-30 03:56:55,Second Class,CUST3996,Manish Agarwal,Delhi,Delhi,North,PROD088,Home & Kitchen,Blenders,Ninja Blender,8000.00,5,5,6500.00,1425.00
+20,ORD000020,2024-06-10 04:27:39,2024-06-13 06:09:08,First Class,CUST3838,Ananya Ghosh,Delhi,Delhi,North,PROD017,Toys,Dollhouses ,Barbie Dreamhouse,3000.00,10,5,2500.00,375.00
+21,ORD000021,2024-06-14 19:38:46,2024-06-22 14:23:38,Standard Class,CUST2198,Vikram Joshi,Mumbai,Maharashtra,West,PROD016,Clothing,Apparel,H&M Hoodie,1500.00,15,10,1200.00,225.00
+22,ORD000022,2024-06-13 03:23:37,2024-06-18 21:45:24,Second Class,CUST2602,Divya Menon,Delhi,Delhi,North,PROD075,Toys,Vehicles,Hot Wheels Track Set,1200.00,8,15,1000.00,60.00
+23,ORD000023,2024-10-10 18:21:51,2024-10-18 09:49:37,Standard Class,CUST3028,Harish Bhatt,Bangalore,Karnataka,South,PROD001,Electronics,Laptops,Apple MacBook Pro,150000.00,1,5,125000.00,17500.00
+24,ORD000024,2024-09-26 10:40:52,2024-10-04 04:54:15,Standard Class,CUST4939,Sneha Kapoor,Mumbai,Maharashtra,West,PROD096,Groceries,Grains & Pulses,Brown Rice (1kg),100.00,25,0,80.00,20.00
+25,ORD000025,2024-06-23 21:51:11,2024-07-01 18:45:45,Standard Class,CUST8606,Ajay Sinha,Mumbai,Maharashtra,West,PROD084,Books,Literature,To Kill a Mockingbird,350.00,10,5,300.00,25.00
+26,ORD000026,2024-04-10 22:37:12,2024-04-13 23:45:48,First Class,CUST9722,Nisha Prasad,Chennai,Tamil Nadu,South,PROD052,Toys,Outdoor,Nerf Super Soaker,1500.00,4,15,1200.00,180.00
+27,ORD000027,2024-08-11 22:38:45,2024-08-17 14:17:39,Second Class,CUST5189,Karthik Dutta,Hyderabad,Telangana,South,PROD035,Clothing,Apparel,H&M Hoodie,1500.00,10,10,1200.00,225.00
+28,ORD000028,2024-01-29 05:46:42,2024-02-03 07:22:12,Second Class,CUST9767,Preeti Pandey,Mumbai,Maharashtra,West,PROD047,Toys,Arts & Crafts,Play-Doh Set,800.00,10,5,600.00,130.00
+29,ORD000029,2024-01-11 13:32:36,2024-01-19 07:58:33,Standard Class,CUST7648,Nikhil Bansal,Bangalore,Karnataka,South,PROD013,Toys,Construction,LEGO Star Wars Set,3500.00,3,5,3000.00,325.00
+30,ORD000030,2024-08-03 08:00:13,2024-08-03 08:00:13,Same Day,CUST8423,Ishita Suri,Hyderabad,Telangana,South,PROD071,Toys,Outdoor,Nerf Super Soaker,1500.00,4,15,1200.00,180.00
+31,ORD000031,2024-02-26 17:48:17,2024-03-03 15:07:04,Second Class,CUST1812,Mohit Rathi,Kolkata,West Bengal,East,PROD053,Home & Kitchen,Blenders,Ninja Blender,8000.00,5,5,6500.00,1425.00
+32,ORD000032,2024-01-19 20:46:30,2024-01-19 20:46:30,Same Day,CUST9763,Bhavna Vyas,Kolkata,West Bengal,East,PROD025,Toys,Outdoor,Nerf Super Soaker,1500.00,4,15,1200.00,180.00
+33,ORD000033,2024-02-09 18:08:56,2024-02-16 22:39:16,Standard Class,CUST6080,Deepak Raval,Delhi,Delhi,North,PROD050,Books,Literature,To Kill a Mockingbird,350.00,10,5,300.00,25.00
+34,ORD000034,2024-03-21 03:12:18,2024-03-24 16:29:29,First Class,CUST9724,Rekha Shetty,Kolkata,West Bengal,East,PROD057,Fashion,Footwear,Nike Air Max 270,10000.00,6,10,8500.00,1350.00
+35,ORD000035,2024-02-23 00:27:07,2024-02-26 21:59:22,First Class,CUST4542,Sanjay Rao,Delhi,Delhi,North,PROD051,Home & Kitchen, Multicookers,Instant Pot Duo,12000.00,6,5,10000.00,1250.00
+36,ORD000036,2024-09-23 23:51:29,2024-09-23 23:51:29,Same Day,CUST1785,Isha Deshmukh,Bangalore,Karnataka,South,PROD029,Home & Kitchen,Mixers,KitchenAid Mixer,15000.00,4,5,12000.00,2250.00
+37,ORD000037,2024-04-02 13:34:24,2024-04-02 13:34:24,Same Day,CUST3472,Parth Naik,Chennai,Tamil Nadu,South,PROD058,Electronics,Laptops,Apple MacBook Pro,150000.00,1,5,125000.00,17500.00
+38,ORD000038,2024-03-08 04:01:58,2024-03-11 09:56:48,First Class,CUST4819,Sunita Patil,Delhi,Delhi,North,PROD007,Electronics,Laptops,Apple MacBook Pro,150000.00,1,5,125000.00,17500.00
+39,ORD000039,2024-01-02 10:26:45,2024-01-02 10:26:45,Same Day,CUST2175,Rajesh Chawla,Bangalore,Karnataka,South,PROD069,Home & Kitchen,Vacuum Cleaners,Dyson Vacuum,30000.00,2,5,25000.00,4250.00
+40,ORD000040,2024-04-25 20:47:52,2024-05-03 14:20:44,Standard Class,CUST1112,Vidya Rajput,Bangalore,Karnataka,South,PROD035,Electronics,Television,LG OLED TV,100000.00,1,5,80000.00,14000.00
+41,ORD000041,2024-06-25 14:41:45,2024-06-28 18:04:19,First Class,CUST9379,Ashok Chaudhary,Bangalore,Karnataka,South,PROD070,Home & Kitchen,Blenders,Ninja Blender,8000.00,5,5,6500.00,1425.00
+42,ORD000042,2024-05-14 09:36:08,2024-05-14 09:36:08,Same Day,CUST5815,Rina Bhardwaj,Hyderabad,Telangana,South,PROD064,Home & Kitchen,Multicookers,Instant Pot Duo,12000.00,6,5,10000.00,1250.00
+43,ORD000043,2024-02-14 17:36:53,2024-02-20 14:36:00,Second Class,CUST7936,Anil Tiwari,Hyderabad,Telangana,South,PROD034,Electronics,Laptops,Apple MacBook Pro,150000.00,1,5,125000.00,17500.00
+44,ORD000044,2024-01-18 11:02:30,2024-01-23 15:32:26,Second Class,CUST5925,Lakshmi Kumar,Kolkata,West Bengal,East,PROD080,Books,Literature,The Catcher in the Rye,400.00,12,10,350.00,25.00
+45,ORD000045,2024-02-12 00:52:57,2024-02-15 14:18:19,First Class,CUST8359,Suraj Mathur,Chennai,Tamil Nadu,South,PROD070,Fashion,Footwear,Adidas Ultraboost,18000.00,3,10,15000.00,2700.00
+46,ORD000046,2024-09-03 01:37:13,2024-09-10 12:20:11,Standard Class,CUST2591,Pallavi Sen,Hyderabad,Telangana,South,PROD024,Fashion,Footwear,Nike Air Max 270,10000.00,6,10,8500.00,1350.00
+47,ORD000047,2024-08-05 16:58:01,2024-08-05 16:58:01,Same Day,CUST3994,Govind Pathak,Mumbai,Maharashtra,West,PROD027,Toys,Dollhouses,Barbie Dreamhouse,3000.00,10,5,2500.00,375.00
+48,ORD000048,2024-07-15 14:20:19,2024-07-15 14:20:19,Same Day,CUST6626,Tara Saxena,Delhi,Delhi,North,PROD068,Groceries,Nuts & Dried Fruits,Organic Almonds (500g),600.00,20,10,500.00,100.00
+49,ORD000049,2024-03-05 10:17:36,2024-03-11 02:16:11,Second Class,CUST8908,Vikas Bajaj,Delhi,Delhi,North,PROD018,Toys,Arts & Crafts,Play-Doh Set,800.00,10,5,600.00,130.00
+50,ORD000050,2024-03-21 06:17:49,2024-03-27 01:57:41,Second Class,CUST9206,Kiran Acharya,Mumbai,Maharashtra,West,PROD055,Clothing,Apparel,Puma T-Shirt,1200.00,10,10,1000.00,120.00
+51,ORD000051,2024-09-27 01:34:54,2024-10-02 05:48:15,Second Class,CUST3189,Sanjana Rathi,Hyderabad,Telangana,South,PROD082,Clothing,Denim & Jeans,Levi's 501 Jeans,3000.00,5,5,2500.00,275.00
+52,ORD000052,2024-08-16 12:42:38,2024-08-19 18:09:43,First Class,CUST6708,Rakesh Chatterjee,Chennai,Tamil Nadu,South,PROD025,Groceries,Nuts & Dried Fruits,Organic Almonds (500g),600.00,20,10,500.00,100.00
+53,ORD000053,2024-03-02 13:20:04,2024-03-02 13:20:04,Same Day,CUST8897,Nandini Mukherjee,Chennai,Tamil Nadu,South,PROD042,Books,Literature,The Alchemist,400.00,12,5,350.00,40.00
+54,ORD000054,2024-03-09 10:56:50,2024-03-12 14:03:18,First Class,CUST7545,Ankit Mittal,Mumbai,Maharashtra,West,PROD067,Electronics,Laptops,Dell XPS 13,120000.00,2,5,100000.00,14000.00
+55,ORD000055,2024-10-10 00:03:56,2024-10-15 08:11:29,Second Class,CUST4759,Radhika Dhawan,Mumbai,Maharashtra,West,PROD089,Toys,Construction,LEGO Star Wars Set,3500.00,3,5,3000.00,325.00
+56,ORD000056,2024-08-15 06:16:14,2024-08-15 06:16:14,Same Day,CUST4377,Suresh Kaur,Chennai,Tamil Nadu,South,PROD081,Toys,Vehicle,Hot Wheels Track Set,1200.00,8,15,1000.00,60.00
+57,ORD000057,2024-01-28 01:24:36,2024-01-31 12:30:23,First Class,CUST9171,Aishwarya Ahuja,Bangalore,Karnataka,South,PROD055,Toys,Dollhouses,Barbie Dreamhouse,3000.00,6,10,2500.00,375.00
+58,ORD000058,2024-06-08 16:54:21,2024-06-12 16:10:45,First Class,CUST6160,Rohit Sood,Kolkata,West Bengal,East,PROD079,Electronics,Smartphones,Samsung Galaxy S21,70000.00,2,5,60000.00,9500.00
+59,ORD000059,2024-07-11 05:24:33,2024-07-14 13:45:13,First Class,CUST1956,Ankita Krishnan,Bangalore,Karnataka,South,PROD045,Electronics,Smartphones,Samsung Galaxy S21,70000.00,1,5,60000.00,9500.00
+60,ORD000060,2024-02-24 19:03:44,2024-02-24 19:03:44,Same Day,CUST7761,Varun Kapoor,Delhi,Delhi,North,PROD025,Books,Literature,The Alchemist,400.00,12,5,350.00,40.00
+61,ORD000061,2024-07-25 12:41:05,2024-07-25 12:41:05,Same Day,CUST6961,Sonia Tandon,Mumbai,Maharashtra,West,PROD080,Books,Literature,The Catcher in the Rye,400.00,10,10,350.00,25.00
+62,ORD000062,2024-03-09 19:26:34,2024-03-09 19:26:34,Same Day,CUST6361,Vikash Chopra,Chennai,Tamil Nadu,South,PROD052,Groceries,Grains & Pulses,Brown Rice (1kg),100.00,30,0,80.00,20.00
+63,ORD000063,2024-03-17 13:57:17,2024-03-25 04:35:16,Standard Class,CUST5153,Sonali Pandit,Chennai,Tamil Nadu,South,PROD041,Groceries,Nuts & Dried Fruits,Organic Almonds (500g),600.00,20,10,500.00,100.00
+64,ORD000064,2024-07-08 03:20:39,2024-07-12 02:21:49,First Class,CUST2276,Gaurav Kohli,Delhi,Delhi,North,PROD014,Home & Kitchen,Mixers,KitchenAid Mixer,15000.00,4,5,12000.00,2250.00
+65,ORD000065,2024-06-10 19:00:30,2024-06-10 19:00:30,Same Day,CUST6817,Meenal D’Souza,Mumbai,Maharashtra,West,PROD046,Home & Kitchen,Mixers,KitchenAid Mixer,15000.00,3,5,12000.00,2250.00
+66,ORD000066,2024-06-07 07:39:58,2024-06-10 18:44:47,First Class,CUST4806,Raj Pillai,Kolkata,West Bengal,East,PROD058,Fashion,Footwear,Nike Air Max 270,10000.00,5,10,8500.00,1350.00
+67,ORD000067,2024-02-05 19:51:44,2024-02-13 14:53:17,Standard Class,CUST3897,Neerja Narang,Mumbai,Maharashtra,West,PROD036,Clothing,Apparel,Puma T-Shirt,1200.00,10,10,1000.00,120.00
+68,ORD000068,2024-06-30 13:47:54,2024-07-05 16:58:57,Second Class,CUST8212,Tarun Dev,Chennai,Tamil Nadu,South,PROD092,Electronics,Laptops,Dell XPS 13,120000.00,2,5,100000.00,14000.00
+69,ORD000069,2024-06-17 14:01:55,2024-06-21 01:44:28,First Class,CUST7501,Leela Sahni,Delhi,Delhi,North,PROD027,Toys,Dollhousess,Barbie Dreamhouse,3000.00,6,10,2500.00,375.00
+70,ORD000070,2024-01-06 12:58:03,2024-01-10 02:09:28,First Class,CUST1566,Surya Kaul,Kolkata,West Bengal,East,PROD083,Groceries,Oils,Extra Virgin Olive Oil (500ml),800.00,12,10,700.00,60.00
+71,ORD000071,2024-04-28 15:54:24,2024-05-06 15:46:45,Standard Class,CUST4223,Madhavi Bhatia,Delhi,Delhi,North,PROD051,Fashion,Footwear,Nike Air Max 270,10000.00,5,10,8500.00,1350.00
+72,ORD000072,2024-09-23 22:55:22,2024-10-01 19:58:14,Standard Class,CUST9428,Kamal Arora,Chennai,Tamil Nadu,South,PROD088,Clothing,Apparel,Puma T-Shirt,1200.00,10,10,1000.00,120.00
+73,ORD000073,2024-08-15 08:28:39,2024-08-18 11:27:36,First Class,CUST4268,Lata Bhagat,Delhi,Delhi,North,PROD040,Toys,Vehicles,Hot Wheels Track Set,1200.00,8,15,1000.00,60.00
+74,ORD000074,2024-03-25 16:55:45,2024-03-31 01:20:39,Second Class,CUST5807,Mahesh Kothari,Bangalore,Karnataka,South,PROD097,Books,Literature,To Kill a Mockingbird,350.00,10,5,300.00,25.00
+75,ORD000075,2024-02-26 20:54:16,2024-03-01 01:20:13,First Class,CUST2996,Rina Bhatt,Hyderabad,Telangana,South,PROD005,Electronics,Laptops,Dell XPS 13,120000.00,2,5,100000.00,14000.00
+76,ORD000076,2024-03-07 08:15:48,2024-03-15 01:45:01,Standard Class,CUST5531,Pradeep Salunkhe,Chennai,Tamil Nadu,South,PROD021,Clothing,Apparel,H&M Hoodie,1500.00,15,10,1200.00,225.00
+77,ORD000077,2024-04-22 23:14:28,2024-04-30 08:49:38,Standard Class,CUST1209,Shalini Nambiar,Chennai,Tamil Nadu,South,PROD029,Books,Literature,The Great Gatsby,500.00,10,5,400.00,50.00
+78,ORD000078,2024-04-11 13:37:48,2024-04-11 13:37:48,Same Day,CUST1298,Vimal Fernandes,Bangalore,Karnataka,South,PROD006,Fashion,Footwear,Adidas Ultraboost,18000.00,3,10,15000.00,2700.00
+79,ORD000079,2024-09-28 00:38:07,2024-10-03 10:42:28,Second Class,CUST6068,Swati Nanda,Bangalore,Karnataka,South,PROD078,Groceries,Nuts & Dried Fruits,Organic Almonds (500g),600.00,20,10,500.00,100.00
+80,ORD000080,2024-05-07 14:15:02,2024-05-13 11:42:14,Second Class,CUST5310,Govind Jindal,Kolkata,West Bengal,East,PROD064,Books,Fiction,1984 by George Orwell,300.00,10,5,250.00,45.00
+81,ORD000081,2024-07-08 19:54:45,2024-07-12 07:21:23,First Class,CUST5576,Ishaan Dahiya,Chennai,Tamil Nadu,South,PROD029,Clothing,Apparel,Puma T-Shirt,1200.00,10,10,1000.00,120.00
+82,ORD000082,2024-09-21 19:36:10,2024-09-25 18:53:33,First Class,CUST1426,Naina Madan,Kolkata,West Bengal,East,PROD091,Home & Kitchen,Mixers,KitchenAid Mixer,15000.00,4,5,12000.00,2250.00
+83,ORD000083,2024-01-28 19:35:35,2024-02-03 07:51:22,Second Class,CUST4671,Amit Talwar,Chennai,Tamil Nadu,South,PROD055,Home & Kitchen,Multicookers,Instant Pot Duo,12000.00,6,5,10000.00,1250.00
+84,ORD000084,2024-01-18 20:51:16,2024-01-26 02:49:02,Standard Class,CUST2943,Simran Chowdhary,Hyderabad,Telangana,South,PROD077,Books,Literature,The Great Gatsby,500.00,10,5,400.00,50.00
+85,ORD000085,2024-07-28 16:05:40,2024-08-03 11:44:15,Second Class,CUST5332,Prashant Mehra,Delhi,Delhi,North,PROD027,Fashion,Footwear,Adidas Ultraboost,18000.00,3,10,15000.00,2700.00
+86,ORD000086,2024-09-09 21:26:17,2024-09-15 17:55:05,Second Class,CUST6265,Lavanya Bhosale,Hyderabad,Telangana,South,PROD080,Clothing,Apparel,H&M Hoodie,1500.00,15,10,1200.00,225.00
+87,ORD000087,2024-05-22 08:51:36,2024-05-26 08:28:39,First Class,CUST6767,Harpreet Grover,Chennai,Tamil Nadu,South,PROD075,Fashion,Footwear,Adidas Ultraboost,18000.00,3,10,15000.00,2700.00
+88,ORD000088,2024-10-05 23:23:15,2024-10-11 16:06:14,Second Class,CUST3791,Jyoti Kaushik,Bangalore,Karnataka,South,PROD002,Electronics,Headphones,Sony WH-1000XM4,30000.00,2,5,25000.00,4250.00
+89,ORD000089,2024-07-29 02:33:13,2024-08-01 20:08:38,First Class,CUST2480,Rajiv Gandhi,Delhi,Delhi,North,PROD079,Books,Literature,To Kill a Mockingbird,350.00,10,5,300.00,25.00
+90,ORD000090,2024-03-27 04:32:31,2024-03-30 20:03:55,First Class,CUST5691,Priyanka Rane,Hyderabad,Telangana,South,PROD080,Books,Fiction,1984 by George Orwell,300.00,10,5,250.00,45.00
+91,ORD000091,2024-01-01 16:03:25,2024-01-07 06:41:29,Second Class,CUST8437,Naveen Goel,Hyderabad,Telangana,South,PROD009,Fashion,Footwear,Adidas Ultraboost,18000.00,3,10,15000.00,2700.00
+92,ORD000092,2024-03-27 18:13:05,2024-03-31 07:43:30,First Class,CUST2210,Kalyani Sahni,Mumbai,Maharashtra,West,PROD004,Home & Kitchen,Multicookers,Instant Pot Duo,12000.00,6,5,10000.00,1250.00
+93,ORD000093,2024-05-01 21:33:49,2024-05-01 21:33:49,Same Day,CUST1090,Omkar Kashyap,Delhi,Delhi,North,PROD068,Books,Literature,The Great Gatsby,500.00,10,5,400.00,50.00
+94,ORD000094,2024-04-20 09:22:56,2024-04-23 17:10:32,First Class,CUST3934,Neeta Mahajan,Hyderabad,Telangana,South,PROD026,Clothing,Apparel,Puma T-Shirt,1200.00,10,10,1000.00,120.00
+95,ORD000095,2024-07-17 07:52:27,2024-07-23 07:11:42,Second Class,CUST1689,Sameer Dhillon,Bangalore,Karnataka,South,PROD033,Clothing,Apparel,Puma T-Shirt,1200.00,10,10,1000.00,120.00
+96,ORD000096,2024-01-17 19:37:18,2024-01-25 03:23:36,Standard Class,CUST1239,Shraddha Mathur,Mumbai,Maharashtra,West,PROD046,Groceries,Breads & Bakery,Whole Wheat Bread,100.00,25,0,80.00,20.00
+97,ORD000097,2024-01-04 15:01:09,2024-01-09 21:54:54,Second Class,CUST3725,Abhay Joshi,Mumbai,Maharashtra,West,PROD005,Books,Literature,The Great Gatsby,500.00,10,5,400.00,50.00
+98,ORD000098,2024-08-27 03:07:40,2024-08-27 03:07:40,Same Day,CUST9346,Shreya Shekhawat,Kolkata,West Bengal,East,PROD016,Clothing,Apparel,H&M Hoodie,1500.00,15,10,1200.00,225.00
+99,ORD000099,2024-10-14 03:17:17,2024-10-14 03:17:17,Same Day,CUST5287,Nikhita Bhandari,Delhi,Delhi,North,PROD083,Books,Literature,To Kill a Mockingbird,350.00,10,5,300.00,25.00
+100,ORD000100,2024-05-04 01:57:03,2024-05-09 16:02:00,Second Class,CUST3285,Arvind Tripathi,Delhi,Delhi,North,PROD038,Groceries,Grains & Pulses,Brown Rice (1kg),100.00,30,0,80.00,20.00
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
